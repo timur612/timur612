@@ -35,5 +35,5 @@
 ### Contact Me
 <hr>
 
-<a href="t.me/goddesu"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/2048px-Telegram_logo.svg.png" width=50 height=50></img></a>
+<a href="@goddesu"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/2048px-Telegram_logo.svg.png" width=50 height=50></img></a>
 <a href="mailto:zakharov.timur.t@gmail.com"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/1024px-Gmail_icon_%282020%29.svg.png" width=55 height=45></img></a>
