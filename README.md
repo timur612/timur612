@@ -4,7 +4,7 @@
 <hr>
 <ul>
     <li>
-        🏅<a href="[https://github.com/timur612/insulator_defect_detection](https://github.com/VivatImperial/SlovarikDB_Hallucination_Detection/tree/main)">X5 AI Hack</a> competition - classification of LLM hallucinations
+        🏅<a href="https://github.com/VivatImperial/SlovarikDB_Hallucination_Detection/tree/main">X5 AI Hack</a> competition - classification of LLM hallucinations
     </li>
     <li>
         🥉<a href="https://github.com/timur612/insulator_defect_detection">AI energy</a> competition - Detection of glass insulators
