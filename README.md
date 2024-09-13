@@ -4,12 +4,6 @@
 <hr>
 <ul>
     <li>
-        🏅<a href="https://github.com/VivatImperial/SlovarikDB_Hallucination_Detection/tree/main">X5 AI Hack</a> competition - classification of LLM hallucinations
-    </li>
-    <li>
-        🥉<a href="https://github.com/timur612/insulator_defect_detection">AI energy</a> competition - Detection of glass insulators
-    </li>
-    <li>
         🥇<a href="https://github.com/Misis-Banach-Space-lct/ldt/tree/main/ml-backend">ЛЦТ Краснодарский край</a> hack - Detection illegal trade
     </li>
     <li>
@@ -17,6 +11,12 @@
     </li>
     <li>
         🥈<a href="https://drive.google.com/file/d/13EYhLmk1_l_EgwMJ3WY9pcqL5jw8MXgA/view">Цифровой прорыв</a> hack - searching for anomalies and predicting violations
+    </li>
+    <li>
+        🥉<a href="https://github.com/timur612/insulator_defect_detection">AI energy</a> competition - Detection of glass insulators
+    </li>
+    <li>
+        <a href="https://github.com/VivatImperial/SlovarikDB_Hallucination_Detection/tree/main">X5 AI Hack</a> competition - classification of LLM hallucinations
     </li>
 </ul>
 
